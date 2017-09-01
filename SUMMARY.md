@@ -1,5 +1,5 @@
 bui# Summary
-* [1 入门](./)
+* [1 入门]
     * [1.1 背景](./preface/background.md)
     * [1.2 需求](./preface/requirements.md)
     * [1.3 架构](./preface/architacture.md)
