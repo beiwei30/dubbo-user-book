@@ -1,0 +1,10 @@
+{
+    "plugins": ["packt-fontsettings"],
+    "pluginsConfig": {
+        "fontSettings": {
+            "theme": "night",
+            "family": "sans",
+            "size": 4
+        }
+    }
+}
